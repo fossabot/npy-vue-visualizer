@@ -1,4 +1,6 @@
 # npy-vue-visualizer
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsarlam%2Fnpy-vue-visualizer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsarlam%2Fnpy-vue-visualizer?ref=badge_shield)
+
 
 ## Project setup
 ```
@@ -29,3 +31,7 @@ yarn run test:unit
 ```
 yarn run test:e2e
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsarlam%2Fnpy-vue-visualizer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsarlam%2Fnpy-vue-visualizer?ref=badge_large)
